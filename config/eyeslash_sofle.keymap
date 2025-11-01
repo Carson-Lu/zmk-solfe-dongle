@@ -44,8 +44,8 @@
         tap-ms = <30>;
     };
 
-//    behaviors {
-//    };
+    behaviors {
+    };
 
     keymap {
         compatible = "zmk,keymap";
