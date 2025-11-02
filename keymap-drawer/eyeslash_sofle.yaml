@@ -151,11 +151,11 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '-', s: _}
   - _
   - +
   - {t: '=', s: +}
-  - _
   - F12
   - {t: '$$mdi:transfer$$', type: trans}
   - OUT USB
@@ -164,12 +164,12 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - '{'
+  - '}'
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - '{'
-  - '}'
-  - '{'
-  - '}'
+  - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:backup-restore$$', type: bootloader}
   - {t: '$$mdi:transfer$$', type: trans}
