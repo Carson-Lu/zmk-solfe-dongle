@@ -106,11 +106,11 @@ layers:
   - +
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB OFF
-  - RGB ON
-  - RGB EFF
+  - Ctl+Z
+  - Ctl+X
+  - Ctl+C
   - RGB EFR
-  - RGB SPI
+  - Ctl+V
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - HOME
   - '{'
