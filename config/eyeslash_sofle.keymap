@@ -65,11 +65,11 @@
 
         layer_1 {
             bindings = <
-&kp GRAVE   &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6    &kp F7            &kp F8             &kp F9     &kp F10   &kp F11
-&trans      &kp GRAVE        &mkp LCLK       &mkp MCLK        &mkp RCLK        &mkp MB4           &mmv MOVE_DOWN   &kp END   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans     &trans    &kp F12
-&trans      &kp TILDE        &trans          &trans           &trans           &kp GRAVE          &mmv MOVE_LEFT   &trans    &kp MINUS         &kp UNDERSCORE     &kp EQUAL  &kp PLUS  &trans
-&trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &kp HOME  &kp LEFT_BRACE    &kp RIGHT_BRACE    &trans     &trans    &trans
-&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans    &trans            &trans             &trans     &trans
+&kp GRAVE   &kp F1           &kp F2          &kp F3           &kp F4           &kp F5             &mmv MOVE_UP     &kp F6     &kp F7          &kp F8           &kp F9                &kp F10                &kp F11
+&trans      &kp EXCLAMATION  &kp AT_SIGN     &kp POUND        &kp DOLLAR       &kp PERCENT        &mmv MOVE_DOWN   &kp CARET  &kp AMPERSAND   &kp ASTERISK     &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp F12
+&trans      &kp TILDE        &trans          &trans           &trans           &kp GRAVE          &mmv MOVE_LEFT   &kp END    &kp MINUS       &kp UNDERSCORE   &kp EQUAL             &kp PLUS               &trans
+&trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &mmv MOVE_RIGHT  &kp HOME   &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans
+&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &mkp LCLK        &trans     &trans          &trans           &trans                &trans
             >;
 
             display-name = "layer1";
